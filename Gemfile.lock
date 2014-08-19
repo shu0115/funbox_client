@@ -11,4 +11,5 @@ PLATFORMS
 
 DEPENDENCIES
   bubble-wrap
+  bubble-wrap-http
   rake
